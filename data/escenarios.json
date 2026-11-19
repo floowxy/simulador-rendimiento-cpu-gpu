@@ -1,0 +1,7 @@
+[
+ {"id":"A","nombre":"Equilibrado","cpu_ms":8,"gpu_ms":8,"resolucion":"1080p","limite_fps":0},
+ {"id":"B","nombre":"Limitado por CPU","cpu_ms":14,"gpu_ms":5,"resolucion":"1080p","limite_fps":0},
+ {"id":"C","nombre":"Limitado por GPU","cpu_ms":5,"gpu_ms":16,"resolucion":"1080p","limite_fps":0},
+ {"id":"D","nombre":"Resolución 4K","cpu_ms":5,"gpu_ms":8,"resolucion":"4K","limite_fps":0},
+ {"id":"E","nombre":"Límite 60 FPS","cpu_ms":5,"gpu_ms":8,"resolucion":"1080p","limite_fps":60}
+]
